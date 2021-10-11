@@ -12,7 +12,7 @@
     -  Minimist-> Takes command line arguments
     -  Axios-> For making http request <br>
     -  JSDOM-> For getting information from dom tree
-    -  EXCEL4NODE-> Used to make excel filr
+    -  EXCEL4NODE-> Used to make excel file
     -  PDF_LIB-> Used to make scorecards in the form of pds
 
 
