@@ -28,7 +28,7 @@ create folders of every team (data folder -> India, Australia, etc) and prepare 
  
  ## EXTRACTED INFORMATION USING JSDOM LOOKS LIKE THIS
  But we want to categorize the teams with their matches
- ![image](https://user-images.githubusercontent.com/73028420/136691422-59984852-0e03-44af-9a7b-2f66da1a9195.png)
+![image](https://user-images.githubusercontent.com/56155933/136846347-b7a5ab1c-f7f0-43bf-a7d1-36f472dd23a7.png)
 
 ## AFTER ARRAY MANIPULATION MADE THE INFORMATION TO LOOK LIKE THIS
 ![image](https://user-images.githubusercontent.com/73028420/136691512-59e3a8aa-9183-464c-bbc5-1ba7e347f4cf.png)
