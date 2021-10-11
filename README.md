@@ -27,7 +27,8 @@
  
  ## EXTRACTED INFORMATION USING JSDOM LOOKS LIKE THIS:
  ![image](https://user-images.githubusercontent.com/56155933/136846517-4868ec6f-c2e8-4d4d-ab57-e521b14d52ae.png)<br>
-  But we want to categorize the teams with their matches
+  But we want to categorize the teams with their matches.
+  
 
 
  ## AFTER ARRAY MANIPULATION MADE THE INFORMATION TO LOOK LIKE THIS:
@@ -58,5 +59,5 @@
   To run this project use this command: <br>
   node CricinfoExtractor.js --excel=worldcup.xlsx --dataFolder=data --source="https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results"
 
- ## CONTACT
+ ## CONTACT:
  In case of any suggestions or enquires, feel free to reach out to me.
