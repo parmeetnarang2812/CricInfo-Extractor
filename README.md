@@ -48,21 +48,15 @@ create folders of every team (data folder -> India, Australia, etc) and prepare 
  ## TO RUN THIS ON YOUR LOCAL MACHINE
    First fork this to your profile, then clone it to your desktop
    
-   Then install libraries 
-   ```bash
-  npm install minimist
-  npm install axios
-  npm install pdf-lib
-  npm install excel4node
-  npm install jsdom
+   Then install libraries:
+   npm install minimist
+   npm install axios
+   npm install pdf-lib
+   npm install excel4node
+   npm install jsdom
   
-  ```
-  
-  To run this project use this command
-  
-  ```bash
-  node --excel=worldcup.xlsx --dataFolder=data --source="https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results"
- ```
+  To run this project use this command:
+  node CricinfoExtractor.js --excel=worldcup.xlsx --dataFolder=data --source="https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results"
 
  ## CONTACT
  In case of any suggestions or enquires, feel free to reach out to me.
