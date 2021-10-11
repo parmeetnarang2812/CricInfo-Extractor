@@ -39,11 +39,11 @@
  ![image](https://user-images.githubusercontent.com/56155933/136847359-6af18246-4a75-4a43-b930-bcbf284d20ab.png)
 
 
- ## PDF TEMPLATE BEFORE 
+ ## PDF TEMPLATE BEFORE:
  ![image](https://user-images.githubusercontent.com/56155933/136847014-6c8f3b18-1b7e-45b9-8eeb-72b313d2fd78.png)
  
 
- ## PDF TEMPLATE AFTER
+ ## PDF TEMPLATE AFTER:
  ![image](https://user-images.githubusercontent.com/56155933/136847566-9a464689-ad39-4582-8784-7045c4d9987f.png)
 
  ## TO RUN THIS ON YOUR LOCAL MACHINE:
