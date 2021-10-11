@@ -34,7 +34,6 @@ create folders of every team (data folder -> India, Australia, etc) and prepare 
  ![image](https://user-images.githubusercontent.com/56155933/136846870-c12ba320-2e6e-4963-8af0-fae193a22782.png)
 
  ## EXCEL FILE AFTER EXCECUTION LOOKS LIKE THIS:
-   Have a look at this excel file!
  ![image](https://user-images.githubusercontent.com/56155933/136847359-6af18246-4a75-4a43-b930-bcbf284d20ab.png)
 
 
