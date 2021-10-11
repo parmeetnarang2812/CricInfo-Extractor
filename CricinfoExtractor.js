@@ -28,8 +28,8 @@ let path = require("path");
 let args = minimist(process.argv);
 
 /*
-download using axios - done
-extract information jsdom - done
+download using axios 
+extract information jsdom 
 manipulate data using array manipulation
 save in excel using excel4node
 create folders and prepare pdfs
