@@ -2,29 +2,25 @@
 
 ## ABOUT:
 -The purpose of this project is to extract the information of Worldcup 2019 from Cricinfo
- and present that in the perform of excel and pdf scorecards.
--To solve real purpose problems of extracting large information from websites.
--A very good reason to make this project is to have good fun with webscrapping.
+ and present that in the perform of excel and pdf scorecards. <br>
+-To solve real purpose problems of extracting large information from websites. <br>
+-A very good reason to make this project is to have good fun with webscrapping. <br>
 
 ## TECH STACK:
--JAVASCRIPT
--Node modules used:
-    -  Minimist-> Takes command line arguments
+-JAVASCRIPT <br>
+-Node modules used: <br>
+    -  Minimist-> Takes command line arguments <br>
     -  Axios-> For making http request <br>
-    -  JSDOM-> For getting information from dom tree
-    -  EXCEL4NODE-> Used to make excel file
-    -  PDF_LIB-> Used to make scorecards in the form of pds
-
-
-
-create folders of every team (data folder -> India, Australia, etc) and prepare pdfs of every team in it.
+    -  JSDOM-> For getting information from dom tree <br>
+    -  EXCEL4NODE-> Used to make excel file <br>
+    -  PDF_LIB-> Used to make scorecards in the form of pds <br>
 
  ## FEATURES AND FUNCTIONS:
- Dowloading data in the form of HTML by making a http request using axios as we are not using any browser so axios will help to achieve this.
- Reading HTML and extracting important and useful information using Jsdom
- Converting matches to teams using Array Manipulation
- Creating excel file and adding appropriate stuff in that excel using excel4node library
- Creating pdfs by making changes to Template pdf using pdf-lib library.
+ -Dowloading data in the form of HTML by making a http request using axios as we are not using any browser so axios will help to achieve this. <br>
+ -Reading HTML and extracting important and useful information using Jsdom. <br>
+ -Converting matches to teams using Array Manipulation. <br>
+ -Creating excel file and adding appropriate stuff in that excel using excel4node library. <br>
+ -Creating pdfs by making changes to Template pdf using pdf-lib library. <br>
  
  ## EXTRACTED INFORMATION USING JSDOM LOOKS LIKE THIS:
  ![image](https://user-images.githubusercontent.com/56155933/136846517-4868ec6f-c2e8-4d4d-ab57-e521b14d52ae.png)
