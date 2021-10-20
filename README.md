@@ -1,4 +1,4 @@
-# CricInfo-Extractor -> A Web Scrapper🏏
+# CricInfo-Extractor🏏 -> A Web Scrapper
 
 ## ABOUT:
 -The purpose of this project is to extract the information of Worldcup 2019 from Cricinfo
