@@ -18,18 +18,19 @@
 
 
  ## FEATURES AND FUNCTIONS:
- -Dowloading data in the form of HTML by making a http request using axios as we are not using any browser so axios will help to achieve this. <br>
- -Reading HTML and extracting important and useful information using Jsdom. <br>
- -Converting matches to teams using Array Manipulation. <br>
- -Creating excel file and adding appropriate stuff in that excel using excel4node library. <br>
- -Creating pdfs by making changes to Template pdf using pdf-lib library. <br>
+ -Read the command line arguments using minimist. <br>
+ -Read the HTML file use axios and convert it to DOM using JSDOM. <br>
+ -Using HTML elements and their class read the data which we need and push it into a JSO object. <br>
+ -Using the above JSO object with all match details we make another JSO which has team details using array manipulation. <br>
+ -Using the teams JSO and excel4node create an excel file with every team match details in a sheet. <br>
+ -Make folders using fs. <br>
+ -Make a template.pdf using MS Word beforehand, and add the data in that pdf for each team and its matches using pdf-lib. <br>
  
  
  ## EXTRACTED INFORMATION USING JSDOM LOOKS LIKE THIS:
  ![image](https://user-images.githubusercontent.com/56155933/136846517-4868ec6f-c2e8-4d4d-ab57-e521b14d52ae.png)<br>
   But we want to categorize the teams with their matches.
   
-
 
  ## AFTER ARRAY MANIPULATION THE INFORMATION LOOKS LIKE THIS:
  ![image](https://user-images.githubusercontent.com/56155933/136846870-c12ba320-2e6e-4963-8af0-fae193a22782.png)
@@ -45,7 +46,3 @@
 
  ## PDF FILE AFTER EXCECUTION LOOKS LIKE THIS:
  ![image](https://user-images.githubusercontent.com/56155933/136847566-9a464689-ad39-4582-8784-7045c4d9987f.png)
-
-
- ## CONTACT:
- In case of any suggestions or enquires, feel free to reach out to me.
