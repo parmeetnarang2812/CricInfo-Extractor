@@ -1,10 +1,10 @@
-# CricInfo-Extractor🏏 
+# WORLDCUP 2019 WEBSCRAPING PROJECT🏏 
 
 ## ABOUT:
 -The purpose of this project is to extract the information of Worldcup 2019 from Cricinfo
  and present that in the form of excel and pdf scorecards. <br>
 -To solve real purpose problems of extracting large information from websites. <br>
--A very good reason to make this project is to have good fun with webscrapping. <br>
+-A very good reason to make this project is to have good fun with webscraping. <br>
 
 
 ## TECH STACK:
