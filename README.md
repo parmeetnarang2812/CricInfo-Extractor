@@ -14,7 +14,7 @@
     -  Axios-> For making http request <br>
     -  JSDOM-> For getting information from dom tree <br>
     -  EXCEL4NODE-> Used to make excel file <br>
-    -  PDF_LIB-> Used to make scorecards in the form of pds <br>
+    -  PDF-LIB-> Used to make scorecards in the form of pds <br>
 
 
  ## FEATURES AND FUNCTIONS:
